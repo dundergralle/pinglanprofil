@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/link"
+  to = "/link.html"
+  status = 200
+  force = true
